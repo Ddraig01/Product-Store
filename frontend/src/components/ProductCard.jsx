@@ -18,6 +18,7 @@ const ProductCard = ({ product }) => {
   return (
     <Box
       shadow="lg"
+      maxW="sm"
       rounded="lg"
       overflow="hidden"
       transition="all 0.3s"

@@ -26,7 +26,7 @@ const HomePage = () => {
         </Text>
 
         <SimpleGrid
-          column={{
+          columns={{
             base: 1,
             md: 2,
             lg: 3,
